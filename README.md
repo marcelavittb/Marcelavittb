@@ -9,9 +9,6 @@ Sou uma desenvolvedora apaixonada por aprender e criar soluções com código. A
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
-## Projetos em destaque
-- [Calculadora em Java](https://github.com/marcelavittb/calculadora-java) – Um projeto simples para realizar operações matemáticas básicas utilizando Java e interface gráfica.
-
 ## Contato
 - 📫 Me encontre no LinkedIn: [Marcela Vitória Becher](https://www.linkedin.com/in/marcela-vit%C3%B3ria-becher-568224228/)
 - 📧 Email: marcelabecher0@gmail.com
